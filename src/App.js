@@ -5,7 +5,7 @@ import queryString from 'query-string';
 
 let defaultStyle = {
   color: '#fff',
-  'font-family': 'Papyrus'
+  'font-family': ''
 };
 let counterStyle = {...defaultStyle, 
   width: "40%", 
